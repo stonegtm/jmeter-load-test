@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 50,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 10790.380000000001,
+    "medianResTime" : 11224.5,
+    "minResTime" : 7763.0,
+    "maxResTime" : 12323.0,
+    "pct1ResTime" : 12096.5,
+    "pct2ResTime" : 12149.35,
+    "pct3ResTime" : 12323.0,
+    "throughput" : 3.843788437884379,
+    "receivedKBytesPerSec" : 12.848913889529522,
+    "sentKBytesPerSec" : 6.2649247097939735
+  },
+  "Create Issue User 50 Ramp 1" : {
+    "transaction" : "Create Issue User 50 Ramp 1",
+    "sampleCount" : 50,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 10790.380000000001,
+    "medianResTime" : 11224.5,
+    "minResTime" : 7763.0,
+    "maxResTime" : 12323.0,
+    "pct1ResTime" : 12096.5,
+    "pct2ResTime" : 12149.35,
+    "pct3ResTime" : 12323.0,
+    "throughput" : 3.843788437884379,
+    "receivedKBytesPerSec" : 12.848913889529522,
+    "sentKBytesPerSec" : 6.2649247097939735
+  }
+}
